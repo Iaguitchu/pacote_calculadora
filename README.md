@@ -10,7 +10,7 @@ The package calculadora_simples is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculadora_simples
 
 ```bash
 pip install calculadora_simples
